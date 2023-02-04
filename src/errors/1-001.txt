@@ -1,0 +1,10 @@
+CallError 1-001 {
+   A: "`base` is not a string!" [string == Text]
+   B: "`passLong` is not a int!" [int == Number no decimals]
+   C: "`Ñ` is not a boolean!" [boolean == bool == True or False]
+   D: "`args` is not a string!" [string == Text]
+   E: "`name` is not a string!" [string == Text]
+   F: "`content` is not a string!" [string == Text]
+   G: "`type_lo` is not a string!" [string == Text]
+   H: "`value` is not a int!" [int == Number no decimals]
+}

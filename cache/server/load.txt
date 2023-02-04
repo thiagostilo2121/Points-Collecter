@@ -1,0 +1,15 @@
+cd PassFunc
+cd cache
+cd data
+cd python
+data.txt
+
+0123456789
+abcdefghijklmnñopqrstuv
+abcdefghijklmnopqrstuv
+ABCDEFGHIJKLMNÑOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+errors = cd PassFunc/src/errors
+
+load all 
+errors is defined to txt files
